@@ -19,12 +19,12 @@ This project was designed to automate monthly reporting, reduce manualy analysis
 # Business Problem
 
 Company leadership needed a centralized dashboard to answer questions such as:
-How much revenue have we generated this year to date?
-How profitable are current operations?
-Which customers generate the most revenue?
-Which vendors account for the highest subrental costs?
-How are labor costs trending?
-Based on current performance, what is our projected year-end revenue?
+- How much revenue have we generated this year to date?
+- How profitable are current operations?
+- Which customers generate the most revenue?
+- Which vendors account for the highest subrental costs?
+- How are labor costs trending?
+- Based on current performance, what is our projected year-end revenue?
 
 Previously, this information required manually reviewing multiple reports across different systems. 
 
@@ -32,99 +32,99 @@ Previously, this information required manually reviewing multiple reports across
 
 Developed an automated reporting solution using Power Query, DAX, and Power BI that combines multiple operational datasets into interactive executive dashboards.
 The solution includes:
-Financial Performance Dashboard
-Forecast Dashboard
+- Financial Performance Dashboard
+- Forecast Dashboard
 
 # Dasboard Features
 
 **Financial Performance Dashboard**
 Provides visibility into:
-Revenue
-Employee Payroll
-Contractor Payroll
-Total Labor
-Gross Profit
-Gross Margin
-Labor Percentage of Revenue
-Subrental Percentage of Revenue
-Monthly Revenue Trends
-Monthly Gross Profit
-Revenue vs Expenses
-Top Customers 
-Top Vendors
+- Revenue
+- Employee Payroll
+- Contractor Payroll
+- Total Labor
+- Gross Profit
+- Gross Margin
+- Labor Percentage of Revenue
+- Subrental Percentage of Revenue
+- Monthly Revenue Trends
+- Monthly Gross Profit
+- Revenue vs Expenses
+- Top Customers 
+- Top Vendors
 
 **Forecast Dashboard**
 Provides forward-looking analysis including:
-Projected Annual Revenue
-Revenue Earned Year-to-Date
-Average Monthly Revenue
-Months Completed
-Months Remaining
-Monthly Overhead
-Best Performing Month
-Least Performing Month
-Revenue Trend Analysis
-Monthly Revenue Benchmarking
-Revenue Variance by Month
+- Projected Annual Revenue
+- Revenue Earned Year-to-Date
+- Average Monthly Revenue
+- Months Completed
+- Months Remaining
+- Monthly Overhead
+- Best Performing Month
+- Least Performing Month
+- Revenue Trend Analysis
+- Monthly Revenue Benchmarking
+- Revenue Variance by Month
 
 # Data Sources
 
 This dashboard combined information from multiple operational systems including:
-NetSuite Revenue Reports
-Payroll Data
-Contractor Payroll
-Vendor Expense Reports
-Calendar Table
+- NetSuite Revenue Reports
+- Payroll Data
+- Contractor Payroll
+- Vendor Expense Reports
+- Calendar Table
 
 Power Query was used to clean, transform, and combine the datasets prior to loading into Power BI.
 
 # Technical Skils Demonstrated
 
-Power BI
-Power Query
-DAX
-Data Modeling
-Financial Reporting
-Dashboard Design
-Forecasting
-KPI Development
-Variance Analysis
-Business Intelligence
+- Power BI
+- Power Query
+- DAX
+- Data Modeling
+- Financial Reporting
+- Dashboard Design
+- Forecasting
+- KPI Development
+- Variance Analysis
+- Business Intelligence
 
 # Key DAX Measures
 
 Examples include:
-Revenue YTD
-Projected Annual Revenue
-Average Monthly Revenue
-Monthly Benchmark
-Revenue Variance
-Gross Margin
-Labor Percentage of Revenue
-Best Performing Month
-Least Performing Month
-Revenue Trend
+- Revenue YTD
+- Projected Annual Revenue
+- Average Monthly Revenue
+- Monthly Benchmark
+- Revenue Variance
+- Gross Margin
+- Labor Percentage of Revenue
+- Best Performing Month
+- Least Performing Month
+- Revenue Trend
 
 # Business Value
 
 The dashboard enables leadership to:
-Monitor company financial health
-Identify revenue trends
-Track labor costs
-Analyze vendor spending
-Forecast year-end revenue
-Compare monthly performance against historical averages
-Improve executive decision making
+- Monitor company financial health
+- Identify revenue trends
+- Track labor costs
+- Analyze vendor spending
+- Forecast year-end revenue
+- Compare monthly performance against historical averages
+- Improve executive decision making
 
 # Key Accomplishments
 
 This project demonstrates the ability to:
-Build executive dashboards from operational data.
-Transform and model data using Power Query.
-Develop dynamic DAX measures and KPIs.
-Design dashboards for executive decision-making.
-Forcast financial performance using historical trends.
-Communicate financial insights through data visualization.
+- Build executive dashboards from operational data.
+- Transform and model data using Power Query.
+- Develop dynamic DAX measures and KPIs.
+- Design dashboards for executive decision-making.
+- Forcast financial performance using historical trends.
+- Communicate financial insights through data visualization.
 
 # Full PDF Export
 
@@ -137,25 +137,25 @@ A PDF version of both dashboards is included for easier viewing.
 
 This project was built using real operational data from a private company.
 To protect confidential business information:
-Customer names have been anonymized.
-Vendor names have been anonymized.
-Contractor names have been anonymized.
-Source workbooks and Power BI files are not included because they contain proprietary business information.
+- Customer names have been anonymized.
+- Vendor names have been anonymized.
+- Contractor names have been anonymized.
+- Source workbooks and Power BI files are not included because they contain proprietary business information.
 
 # Future Enhancements
 
 Future versions may include:
-Operating Margin Analysis
-Break-even Revenue Analysis
-Cash Flow Reporting
-Budget vs Actual Reporting
-SQL Data Warehouse Integration
-Automated Data Refresh
+- Operating Margin Analysis
+- Break-even Revenue Analysis
+- Cash Flow Reporting
+- Budget vs Actual Reporting
+- SQL Data Warehouse Integration
+- Automated Data Refresh
 
 # Technologies
 
-Power BI
-Excel
-Power Query
-DAX
-NetSuite
+- Power BI
+- Excel
+- Power Query
+- DAX
+- NetSuite
