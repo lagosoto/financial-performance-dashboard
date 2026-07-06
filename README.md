@@ -3,7 +3,7 @@
 # Overview
 
 This project displays the design and development of a financial reporting solution that was built with Power BI and Excel. The dashboard consolidates revenue, vendor expenses, along with employee and contractor payroll into a single reporting platform that provides leadership with real-time visibility into financial performance and revenue trends.
-This project was designed to automate monthly reporting, reduce manualy analysis, and provide executive-level insights into profitability, operating costs, and year-end revenue projections.
+This project was designed to automate monthly reporting, reduce manual analysis, and provide executive-level insights into profitability, operating costs, and year-end revenue projections.
 
 # Screenshots
 
