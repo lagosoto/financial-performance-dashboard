@@ -30,7 +30,7 @@ Previously, this information required manually reviewing multiple reports across
 
 # Solution
 
-Developed an automated reporting solution using Power Query, DAX, and Power BI that combines multiple operational datasets into interactive executive dashboards.
+Developed an automated reporting solution using Power Query, DAX, and Power BI that combines multiple operational datasets into interactive executive dashboards.<br>
 The solution includes:
 - Financial Performance Dashboard
 - Forecast Dashboard
@@ -135,7 +135,7 @@ A PDF version of both dashboards is included for easier viewing.
 
 # Data Confidentiality
 
-This project was built using real operational data from a private company.
+This project was built using real operational data from a private company.<br>
 To protect confidential business information:
 - Customer names have been anonymized.
 - Vendor names have been anonymized.
