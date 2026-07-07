@@ -37,7 +37,7 @@ The solution includes:
 
 # Dasboard Features
 
-**Financial Performance Dashboard**
+**Financial Performance Dashboard**<br>
 Provides visibility into:
 - Revenue
 - Employee Payroll
@@ -53,7 +53,7 @@ Provides visibility into:
 - Top Customers 
 - Top Vendors
 
-**Forecast Dashboard**
+**Forecast Dashboard**<br>
 Provides forward-looking analysis including:
 - Projected Annual Revenue
 - Revenue Earned Year-to-Date
